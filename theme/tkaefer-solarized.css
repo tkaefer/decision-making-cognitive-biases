@@ -15,8 +15,14 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #fdf6e3;
-  background-color: #fdf6e3; }
+  background: #eee8d5;
+  background: -moz-radial-gradient(center, circle cover, white 0%, #eee8d5 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, white), color-stop(100%, #eee8d5));
+  background: -webkit-radial-gradient(center, circle cover, white 0%, #eee8d5 100%);
+  background: -o-radial-gradient(center, circle cover, white 0%, #eee8d5 100%);
+  background: -ms-radial-gradient(center, circle cover, white 0%, #eee8d5 100%);
+  background: radial-gradient(center, circle cover, white 0%, #eee8d5 100%);
+  background-color: #eee8d5; }
 
 .reveal {
   font-family: "Lato", sans-serif;

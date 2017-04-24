@@ -46,15 +46,15 @@ $green:     #859900;
 $mainColor: $base00;
 $headingColor: $base01;
 $headingTextShadow: none;
-$backgroundColor: $base3;
+$backgroundColor: $base2;
 $linkColor: $blue;
 $linkColorHover: lighten( $linkColor, 20% );
 $selectionBackgroundColor: $magenta;
 
 // Background generator
-// @mixin bodyBackground() {
-// 	@include radial-gradient( rgba($base3,1), rgba(lighten($base3, 20%),1) );
-// }
+@mixin bodyBackground() {
+  @include radial-gradient( rgba($backgroundColor,1), rgba(lighten($backgroundColor, 20%),1) );
+}
 
 
 
