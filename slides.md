@@ -19,7 +19,7 @@ Introduce yourself.
 <!-- .slide: class="img-overlay-heavy" data-background-image="images/tkaefer.jpg" -->
 
 #### Tobias Käfer <!-- .element class="fragment fade-in" -->
-##### since 12/2011 at 1&1 - MyWebsite Middleware as Senior Software Developer <!-- .element class="fragment fade-in" -->
+##### since 11/2011 at 1&1 - MyWebsite Middleware as Senior Software Developer <!-- .element class="fragment fade-in" -->
 ##### since 12/2013 as Software Architect at MyWebsite Infrastructure<!-- .element class="fragment fade-in" -->
 ##### Joachim Ritter called me once a cultural shaping attaché (in German "Kulturgestaltungsattachés")<!-- .element class="fragment fade-in" -->
 ##### Involvement in team, department, division and company soft skill evolution (like MyWebsite Culture 2.0, Augenhöhe, Suns)<!-- .element class="fragment fade-in" -->
