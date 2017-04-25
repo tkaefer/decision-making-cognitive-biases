@@ -140,23 +140,23 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ----
 
-* We notice things that are already primed in memory or repeated often.
+#### We notice things that are already primed in memory or repeated often.
 
 ----
 
-* Bizarre/funny/visually-striking/anthropomorphic things stick out more than non-bizarre/unfunny things.
+#### Bizarre/funny/visually-striking/anthropomorphic things stick out more than non-bizarre/unfunny things.
 
 ----
 
-* We notice when something has changed.
+#### We notice when something has changed.
 
 ----
 
-* We are drawn to details that confirm our own existing beliefs.
+#### We are drawn to details that confirm our own existing beliefs.
 
 ----
 
-* We notice flaws in others more easily than flaws in ourselves.
+#### We notice flaws in others more easily than flaws in ourselves.
 
 ---
 
@@ -166,27 +166,27 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ----
 
-* We find stories and patterns even in sparse data.
+#### We find stories and patterns even in sparse data.
 
 ----
 
-* We fill in characteristics from stereotypes, generalities and prior histories whenever there are new specific instances or gaps in information.
+#### We fill in characteristics from stereotypes, generalities and prior histories whenever there are new specific instances or gaps in information.
 
 ----
 
-* We imagine things and people we’re familiar with or fond of as better than things and people we aren’t familiar with or fond of.
+#### We imagine things and people we’re familiar with or fond of as better than things and people we aren’t familiar with or fond of.
 
 ----
 
-* We simplify probabilities and numbers to make them easier to think about.
+#### We simplify probabilities and numbers to make them easier to think about.
 
 ----
 
-* We think we know what others are thinking.
+#### We think we know what others are thinking.
 
 ----
 
-* We project our current mindset and assumptions onto the past and future.
+#### We project our current mindset and assumptions onto the past and future.
 
 ---
 
@@ -196,23 +196,23 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ----
 
-* In order to act, we need to be confident in our ability to make an impact and to feel like what we do is important.
+#### In order to act, we need to be confident in our ability to make an impact and to feel like what we do is important.
 
 ----
 
-* In order to stay focused, we favor the immediate, relatable thing in front of us over the delayed and distant.
+#### In order to stay focused, we favor the immediate, relatable thing in front of us over the delayed and distant.
 
 ----
 
-* In order to get anything done, we’re motivated to complete things that we’ve already invested time and energy in.
+#### In order to get anything done, we’re motivated to complete things that we’ve already invested time and energy in.
 
 ----
 
-* In order to avoid mistakes, we’re motivated to preserve our autonomy and status in a group and to avoid irreversible decisions.
+#### In order to avoid mistakes, we’re motivated to preserve our autonomy and status in a group and to avoid irreversible decisions.
 
 ----
 
-* We favor options that appear simple or that have more complete information over more complex, ambiguous options.
+#### We favor options that appear simple or that have more complete information over more complex, ambiguous options.
 
 ---
 
@@ -222,19 +222,19 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ----
 
-* We edit and reinforce some memories after the fact.
+#### We edit and reinforce some memories after the fact.
 
 ----
 
-* We discard specifics to form generalities.
+#### We discard specifics to form generalities.
 
 ----
 
-* We reduce events and lists to their key elements.
+#### We reduce events and lists to their key elements.
 
 ----
 
-* We store memories differently based on how they were experienced.
+#### We store memories differently based on how they were experienced.
 
 ---
 
@@ -242,39 +242,39 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ----
 
-1\. Information overload sucks, so we aggressively filter. Noise becomes signal.
+### 1\. Information overload sucks, so we aggressively filter. Noise becomes signal.
 
 ----
 
-2\. Lack of meaning is confusing, so we fill in the gaps. Signal becomes a story.
+### 2\. Lack of meaning is confusing, so we fill in the gaps. Signal becomes a story.
 
 ----
 
-3\. Need to act fast lest we lose our chance, so we jump to conclusions. Stories become decisions.
+### 3\. Need to act fast lest we lose our chance, so we jump to conclusions. Stories become decisions.
 
 ----
 
-4\. This isn’t getting easier, so we try to remember the important bits. Decisions inform our mental models of the world.
+### 4\. This isn’t getting easier, so we try to remember the important bits. Decisions inform our mental models of the world.
 
 ---
 
-Sounds pretty useful! So what’s the downside?
+## Sounds pretty useful! So what’s the downside?
 
 ----
 
-1\. We don’t see everything. Some of the information we filter out is actually useful and important.
+### 1\. We don’t see everything. Some of the information we filter out is actually useful and important.
 
 ----
 
-2\. Our search for meaning can conjure illusions. We sometimes imagine details that were filled in by our assumptions and construct meaning and stories that aren’t really there.
+### 2\. Our search for meaning can conjure illusions. We sometimes imagine details that were filled in by our assumptions and construct meaning and stories that aren’t really there.
 
 ----
 
-3\. Quick decisions can be seriously flawed. Some of the quick reactions and decisions we jump to are unfair, self-serving and counter-productive.
+### 3\. Quick decisions can be seriously flawed. Some of the quick reactions and decisions we jump to are unfair, self-serving and counter-productive.
 
 ----
 
-4\. Our memory reinforces errors. Some of the stuff we remember for later just makes all of the above systems more biased and more damaging to our thought processes.
+### 4\. Our memory reinforces errors. Some of the stuff we remember for later just makes all of the above systems more biased and more damaging to our thought processes.
 
 ---
 
@@ -359,11 +359,11 @@ So... Questions?
 
 ---
 
-Backup
+## Backup
 
 ---
 
-Some cognitive biases that influence decision making
+## Some cognitive biases that influence decision making
 
 [source https://www.translatemedia.com/us/blog-us/cognitive-biases-influence-decision-making/](https://www.translatemedia.com/us/blog-us/cognitive-biases-influence-decision-making/) <!-- .element style="font-size: 0.4em;" -->
 
