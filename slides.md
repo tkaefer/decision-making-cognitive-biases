@@ -16,6 +16,30 @@ Introduce yourself.
 
 ---
 
+<!-- .slide: class="img-overlay-heavy" data-background-image="images/tkaefer.jpg" -->
+
+#### Tobias Käfer <!-- .element class="fragment fade-in" -->
+##### since 12/2011 at 1&1 - MyWebsite Middleware as Senior Software Developer <!-- .element class="fragment fade-in" -->
+##### since 12/2013 as Software Architect at MyWebsite Infrastructure<!-- .element class="fragment fade-in" -->
+##### Joachim Ritter called me once a cultural shaping attaché (in German "Kulturgestaltungsattachés")<!-- .element class="fragment fade-in" -->
+##### Involvement in team, department, division and company soft skill evolution (like MyWebsite Culture 2.0, Augenhöhe, Suns)<!-- .element class="fragment fade-in" -->
+##### Just coding is not enough - just being a manager is also not enough<!-- .element class="fragment fade-in" -->
+
+---
+
+<!-- .slide: class="img-overlay-heavy" data-background-image="images/troy-mc-clure-1024x768.gif" -->
+
+##### You might have seen me (not Troy McClure)<!-- .element class="fragment fade-in" -->
+##### at my talk about imposter syndrome during PASK Conference 2017<!-- .element class="fragment fade-in" -->
+##### at my previous talks on TECDay 2013, 2014, 2015, 2016<!-- .element class="fragment fade-in" -->
+##### at "some" walls<!-- .element class="fragment fade-in" -->
+##### involved in the Inside "Suns/Appreciate" project<!-- .element class="fragment fade-in" -->
+##### at some 1&1 boards (Infrastructure, SOA, AC1)<!-- .element class="fragment fade-in" -->
+##### anywhere around Docker, CaaS<!-- .element class="fragment fade-in" -->
+
+
+---
+
 ## Cognitive Bias?
 
 ---
