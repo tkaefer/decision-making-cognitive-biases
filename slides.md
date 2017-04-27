@@ -12,7 +12,7 @@ by Tobias Käfer
 Software Architect MyWebsite Infrastructure
 
 Note:
-Introduce yourself.
+Introduce yourself. XXX
 
 ---
 
@@ -21,9 +21,8 @@ Introduce yourself.
 #### Tobias Käfer <!-- .element class="fragment fade-in" -->
 ##### since 11/2011 at 1&1 - MyWebsite Middleware as Senior Software Developer <!-- .element class="fragment fade-in" -->
 ##### since 12/2013 as Software Architect at MyWebsite Infrastructure<!-- .element class="fragment fade-in" -->
-##### Joachim Ritter called me once a cultural shaping attaché (in German "Kulturgestaltungsattachés")<!-- .element class="fragment fade-in" -->
 ##### Involvement in team, department, division and company soft skill evolution (like MyWebsite Culture 2.0, Augenhöhe, Suns)<!-- .element class="fragment fade-in" -->
-##### Just coding is not enough - just being a manager is also not enough<!-- .element class="fragment fade-in" -->
+##### Cultural shaping attaché (in German "Kulturgestaltungsattachés") - Joachim Ritter<!-- .element class="fragment fade-in" -->
 
 ---
 
