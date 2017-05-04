@@ -281,6 +281,70 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ---
 
+### Example time
+
+---
+
+### Who loves Pear?
+
+----
+
+### Anybody here that does not love Pear?
+
+----
+
+### Wound't it be great that everybody loves Pear?
+
+----
+
+### How do we convince the haters to love Pear?
+
+----
+
+### Let's search for "Pear is good for your health and a power fruit"
+
+----
+
+### Great
+
+![](images/GoogleForPear.png) <!-- .element style="height: 500px" -->
+
+----
+
+### Evidence proves Pear is the greatest fruit on earth. #alternativetruth
+
+----
+
+### So let's question the Pear for a second...
+
+![](images/BadPear.png) <!-- .element style="height: 500px" -->
+
+----
+
+### So 1.4Mio VS 500k - Who is now right, hu?
+
+----
+
+### Nobody. The questions are already biases.
+
+----
+
+### Better.
+
+![](images/FactsPear.png) <!-- .element style="height: 500px" -->
+
+----
+
+### Which bias was this?
+
+----
+
+### Confirmation bias.
+
+To be found to be right is pleasing, isn’t it? Unfortunately, the desire to see our preconceptions confirmed as reality can overwhelm our desire to make a decision based on facts or data.
+
+---
+
 ### How could we prevent biased decision-making in our daily work?
 
 ---
