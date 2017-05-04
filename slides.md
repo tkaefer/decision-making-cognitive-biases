@@ -18,24 +18,38 @@ Introduce yourself. XXX
 
 <!-- .slide: class="img-overlay-heavy" data-background-image="images/tkaefer.jpg" -->
 
-#### Tobias Käfer <!-- .element class="fragment fade-in" -->
-##### since 11/2011 at 1&1 - MyWebsite Middleware as Senior Software Developer <!-- .element class="fragment fade-in" -->
-##### since 12/2013 as Software Architect at MyWebsite Infrastructure<!-- .element class="fragment fade-in" -->
-##### Involvement in team, department, division and company soft skill evolution (like MyWebsite Culture 2.0, Augenhöhe, Suns)<!-- .element class="fragment fade-in" -->
-##### Cultural shaping attaché (in German "Kulturgestaltungsattachés") - Joachim Ritter<!-- .element class="fragment fade-in" -->
+### Tobias Käfer <!-- .element class="fragment fade-in" -->
+* since 11/2011 at 1&1 - MyWebsite Middleware as Senior Software Developer <!-- .element class="fragment fade-in" -->
+* since 12/2013 as Software Architect at MyWebsite Infrastructure<!-- .element class="fragment fade-in" -->
+* Involvement in team, department, division and company soft skill evolution (like MyWebsite Culture 2.0, Augenhöhe, Suns)<!-- .element class="fragment fade-in" -->
+*  Cultural shaping attaché (in German "Kulturgestaltungsattachés") - Joachim Ritter<!-- .element class="fragment fade-in" -->
 
 ---
 
 <!-- .slide: class="img-overlay-heavy" data-background-image="images/troy-mc-clure-1024x768.gif" -->
 
-##### You might have seen me (not Troy McClure)<!-- .element class="fragment fade-in" -->
-##### at my talk about imposter syndrome during PASK Conference 2017<!-- .element class="fragment fade-in" -->
-##### at my previous talks on TECDay 2013, 2014, 2015, 2016<!-- .element class="fragment fade-in" -->
-##### at "some" walls<!-- .element class="fragment fade-in" -->
-##### involved in the Inside "Suns/Appreciate" project<!-- .element class="fragment fade-in" -->
-##### at some 1&1 boards (Infrastructure, SOA, AC1)<!-- .element class="fragment fade-in" -->
-##### anywhere around Docker, CaaS<!-- .element class="fragment fade-in" -->
+### You might have seen me (not Troy McClure)<!-- .element class="fragment fade-in" -->
+* at my talk about imposter syndrome during PASK Conference 2017<!-- .element class="fragment fade-in" -->
+* at my previous talks on TECDay 2013, 2014, 2015, 2016<!-- .element class="fragment fade-in" -->
+* at "some" walls<!-- .element class="fragment fade-in" -->
+* involved in the Inside "Suns/Appreciate" project<!-- .element class="fragment fade-in" -->
+* at some 1&1 boards (Infrastructure, SOA, AC1)<!-- .element class="fragment fade-in" -->
+* anywhere around Docker, CaaS<!-- .element class="fragment fade-in" -->
 
+
+---
+
+Throughout my developer and architect work, I've recognized
+* quite some strong opinions from others,
+* tens discussions and
+* difficulties in finding the compromises within decision-making.
+
+---
+
+One topic that I've heard over and over again during the approach of understanding why these issues arise within decision-making was
+
+
+"Cognitive Bias". <!-- .element style="font-size: 1.2em; color: #dc322f;" -->
 
 ---
 
@@ -65,23 +79,14 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ---
 
-* information-processing shortcuts (heuristics)
+* information-processing shortcuts (heuristics) <!-- .element class="fragment fade-in" -->
+* noisy information processing (distortions in the process of storage in and retrieval from memory)<!-- .element class="fragment fade-in" -->
 
 ---
 
-* noisy information processing (distortions in the process of storage in and retrieval from memory)
-
----
-
-* the brain's limited information processing capacity
-
----
-
-* emotional and moral motivations
-
----
-
-* social influence
+* the brain's limited information processing capacity<!-- .element class="fragment fade-in" -->
+* emotional and moral motivations<!-- .element class="fragment fade-in" -->
+* social influence<!-- .element class="fragment fade-in" -->
 
 ---
 
@@ -91,19 +96,13 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ---
 
-* there are biases specific to groups (such as the risky shift) as well as biases at the individual level.
+* there are biases specific to groups (such as the risky shift) as well as biases at the individual level.<!-- .element class="fragment fade-in" -->
+* Some biases affect decision-making, where the desirability of options has to be considered (e.g., sunk costs fallacy).<!-- .element class="fragment fade-in" -->
 
 ---
 
-* Some biases affect decision-making, where the desirability of options has to be considered (e.g., sunk costs fallacy).
-
----
-
-* Others such as illusory correlation affect judgment of how likely something is, or of whether one thing is the cause of another.
-
----
-
-* A distinctive class of biases affect memory, such as consistency bias (remembering one's past attitudes and behavior as more similar to one's present attitudes).
+* Others such as illusory correlation affect judgment of how likely something is, or of whether one thing is the cause of another.<!-- .element class="fragment fade-in" -->
+* A distinctive class of biases affect memory, such as consistency bias (remembering one's past attitudes and behavior as more similar to one's present attitudes).<!-- .element class="fragment fade-in" -->
 
 ---
 
@@ -285,6 +284,10 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ---
 
+### First example
+
+----
+
 ### Who loves Pear?
 
 ----
@@ -321,11 +324,11 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ----
 
-### So 1.4Mio VS 500k - Who is now right, hu?
+### So 1.4Mio VS 8.7Mio - Who is now right, hu?
 
 ----
 
-### Nobody. The questions are already biases.
+### Nobody. The questions are already biased.
 
 ----
 
@@ -342,6 +345,42 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 ### Confirmation bias.
 
 To be found to be right is pleasing, isn’t it? Unfortunately, the desire to see our preconceptions confirmed as reality can overwhelm our desire to make a decision based on facts or data.
+
+---
+
+### Second example
+
+----
+
+### Given you are a developer - you have to decide to either use your own created software or you buy something that fits 100% to your needs.
+
+----
+
+### Which one are you likely to be using?
+
+----
+
+### Own?
+
+----
+
+### Buy?
+
+----
+
+### Which biases?
+
+----
+
+### IKEA effect
+
+The IKEA effect is a cognitive bias in which consumers place a disproportionately high value on products they partially created. The name derives from the Swedish manufacturer and furniture retailer IKEA, which sells many furniture products that require assembly.
+
+----
+
+### Not invented here
+
+Not invented here (NIH) is a stance adopted by social, corporate, or institutional cultures that avoid using or buying already existing products, research, standards, or knowledge because of their external origins and costs, such as royalties.
 
 ---
 
