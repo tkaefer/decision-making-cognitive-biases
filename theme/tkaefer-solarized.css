@@ -301,25 +301,35 @@ body {
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
 
+.two-floating-elements > h1 ~ ul,
+.two-floating-elements > h2 ~ ul,
+.two-floating-elements > h3 ~ ul,
 .two-floating-elements > ul ~ p,
 .two-floating-elements > p ~ ul {
   max-width: 50%;
+  float: right;
+  background: rgba(253, 246, 227, 0.9);
+  padding: 5px;
+  list-style-position: inside; }
+.two-floating-elements > h1,
+.two-floating-elements > h2,
+.two-floating-elements > h3,
+.two-floating-elements > p,
+.two-floating-elements > ul {
   float: left;
-  font-size: 0.7em;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
-.two-floating-elements > p ~ ul {
-  margin-left: 0; }
+  margin-left: 0;
+  background: rgba(253, 246, 227, 0.9);
+  padding: 5px;
+  list-style-position: inside; }
 
 .img-overlay > ul, .img-overlay h1, .img-overlay h2, .img-overlay h3, .img-overlay h4, .img-overlay h5, .img-overlay h6, .img-overlay p, .img-overlay span {
   background: rgba(253, 246, 227, 0.6);
   list-style-position: inside;
-  padding: 15px; }
+  padding: 5px; }
 
 .img-overlay-heavy > ul, .img-overlay-heavy h1, .img-overlay-heavy h2, .img-overlay-heavy h3, .img-overlay-heavy h4, .img-overlay-heavy h5, .img-overlay-heavy h6, .img-overlay-heavy p, .img-overlay-heavy span {
   background: rgba(253, 246, 227, 0.9);
   list-style-position: inside;
-  padding: 15px; }
+  padding: 5px; }
 
 /*# sourceMappingURL=tkaefer-solarized.css.map */

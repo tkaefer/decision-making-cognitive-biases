@@ -64,26 +64,35 @@ $selectionBackgroundColor: $magenta;
 
 
 .two-floating-elements {
+	> h1 ~ ul,
+	> h2 ~ ul,
+	> h3 ~ ul,
   > ul ~ p,
   > p ~ ul {
     max-width: 50%;
-    float:left;
-    font-size: 0.7em;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+    float:right;
+		background: rgba(253,246,227, 0.9);
+		padding: 5px;
+		list-style-position: inside;
   }
-  > p ~ ul {
+	> h1,
+	> h2,
+	> h3,
+	> p,
+	> ul {
+		float: left;
     margin-left: 0;
+		background: rgba(253,246,227, 0.9);
+		padding: 5px;
+		list-style-position: inside;
   }
 }
-
 
 .img-overlay {
 	> ul, h1, h2, h3, h4, h5, h6, p, span {
 		background: rgba(253,246,227, 0.6);
 		list-style-position: inside;
-padding: 15px;
+		padding: 5px;
 	}
 }
 
@@ -92,6 +101,6 @@ padding: 15px;
 	> ul, h1, h2, h3, h4, h5, h6, p, span {
 		background: rgba(253,246,227, 0.9);
 		list-style-position: inside;
-padding: 15px;
+		padding: 5px;
 	}
 }

@@ -16,25 +16,33 @@ Introduce yourself. XXX
 
 ---
 
-<!-- .slide: class="img-overlay-heavy" data-background-image="images/tkaefer.jpg" -->
+<!-- .slide: class="two-floating-elements" data-background-image="images/tkaefer.jpg" -->
 
-### Tobias Käfer <!-- .element class="fragment fade-in" -->
+## Tobias Käfer
+
 * since 11/2011 at 1&1 - MyWebsite Middleware as Senior Software Developer <!-- .element class="fragment fade-in" -->
 * since 12/2013 as Software Architect at MyWebsite Infrastructure<!-- .element class="fragment fade-in" -->
-* Involvement in team, department, division and company soft skill evolution (like MyWebsite Culture 2.0, Augenhöhe, Suns)<!-- .element class="fragment fade-in" -->
-*  Cultural shaping attaché (in German "Kulturgestaltungsattachés") - Joachim Ritter<!-- .element class="fragment fade-in" -->
 
 ---
 
-<!-- .slide: class="img-overlay-heavy" data-background-image="images/troy-mc-clure-1024x768.gif" -->
+<!-- .slide: class="two-floating-elements" data-background-image="images/tkaefer.jpg" -->
 
-### You might have seen me (not Troy McClure)<!-- .element class="fragment fade-in" -->
-* at my talk about imposter syndrome during PASK Conference 2017<!-- .element class="fragment fade-in" -->
-* at my previous talks on TECDay 2013, 2014, 2015, 2016<!-- .element class="fragment fade-in" -->
-* at "some" walls<!-- .element class="fragment fade-in" -->
-* involved in the Inside "Suns/Appreciate" project<!-- .element class="fragment fade-in" -->
-* at some 1&1 boards (Infrastructure, SOA, AC1)<!-- .element class="fragment fade-in" -->
-* anywhere around Docker, CaaS<!-- .element class="fragment fade-in" -->
+## Tobias Käfer
+
+* Software Infrastructure, Continuous D*, Clean Code, TDD, Docker, CaaS<!-- .element class="fragment fade-in" -->
+* Talks on TECDay 2013, 2014, 2015, 2016<!-- .element class="fragment fade-in" -->
+* Visible at "some" walls<!-- .element class="fragment fade-in" -->
+* Participant of 1&1 boards (Infrastructure, SOA, AC1)<!-- .element class="fragment fade-in" -->
+
+---
+
+<!-- .slide: class="two-floating-elements" data-background-image="images/tkaefer.jpg" -->
+
+## Tobias Käfer
+
+* Involvement in team, department, division and company soft skill evolution (like MyWebsite Culture 2.0, Augenhöhe, Suns)<!-- .element class="fragment fade-in" -->
+* Talk about imposter syndrome during PASK Conference 2017<!-- .element class="fragment fade-in" -->
+* Cultural shaping attaché (in German "Kulturgestaltungsattachés") - Joachim Ritter<!-- .element class="fragment fade-in" -->
 
 
 ---
