@@ -23,8 +23,8 @@ Introduce yourself. XXX
 
 ## Tobias Käfer
 
-* since 11/2011 at 1&1 - MyWebsite Middleware as Senior Software Developer <!-- .element class="fragment fade-in" -->
-* since 12/2013 as Software Architect at MyWebsite Infrastructure<!-- .element class="fragment fade-in" -->
+* since 11/2011 at 1&1 - MyWebsite Middleware as Senior Software Developer
+* since 12/2013 as Software Architect at MyWebsite Infrastructure
 
 ---
 
@@ -32,10 +32,10 @@ Introduce yourself. XXX
 
 ## Tobias Käfer
 
-* Software Infrastructure, Continuous D*, Clean Code, TDD, Docker, CaaS<!-- .element class="fragment fade-in" -->
-* Talks on TECDay 2013, 2014, 2015, 2016<!-- .element class="fragment fade-in" -->
-* Visible at "some" walls<!-- .element class="fragment fade-in" -->
-* Participant of 1&1 boards (Infrastructure, SOA, AC1)<!-- .element class="fragment fade-in" -->
+* Software Infrastructure, Continuous D*, Clean Code, TDD, Docker, CaaS
+* Talks on TECDay 2013, 2014, 2015, 2016
+* Visible at "some" walls
+* Participant of 1&1 boards (Infrastructure, SOA, AC1)
 
 ---
 
@@ -43,16 +43,16 @@ Introduce yourself. XXX
 
 ## Tobias Käfer
 
-* Involvement in team, department, division and company soft skill evolution (like MyWebsite Culture 2.0, Augenhöhe, Suns)<!-- .element class="fragment fade-in" -->
-* Talk about imposter syndrome during PASK Conference 2017<!-- .element class="fragment fade-in" -->
-* Cultural shaping attaché (in German "Kulturgestaltungsattachés") - Joachim Ritter<!-- .element class="fragment fade-in" -->
+* Involvement in team, department, division and company soft skill evolution (like MyWebsite Culture 2.0, Augenhöhe, Suns)
+* Talk about imposter syndrome during PASK Conference 2017
+* Cultural shaping attaché (in German "Kulturgestaltungs- attaché") - Joachim Ritter
 
 
 ---
 
 Throughout my developer and architect work, I've recognized
 * quite some strong opinions from others,
-* tens discussions and
+* tense discussions and
 * difficulties in finding the compromises within decision-making.
 
 ---
@@ -60,7 +60,7 @@ Throughout my developer and architect work, I've recognized
 One topic that I've heard over and over again during the approach of understanding why these issues arise within decision-making was
 
 
-"Cognitive Bias". <!-- .element style="font-size: 1.2em; color: #dc322f;" -->
+"Cognitive Bias". <!-- .element class="fragment fade-in" style="font-size: 1.2em; color: #dc322f;" -->
 
 ---
 
@@ -84,7 +84,9 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 ---
 
-### Bias arises from various processes that are sometimes difficult to distinguish. These include
+### Bias arises from various processes that are sometimes difficult to distinguish.
+
+### These include
 
 [source https://en.wikipedia.org/wiki/Cognitive_bias](https://en.wikipedia.org/wiki/Cognitive_bias) <!-- .element style="font-size: 0.4em;" -->
 
@@ -357,6 +359,30 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 
 To be found to be right is pleasing, isn’t it? Unfortunately, the desire to see our preconceptions confirmed as reality can overwhelm our desire to make a decision based on facts or data.
 
+----
+
+### Blind spots
+
+Ironically, not seeing your own decision-making bias can be a bias too. Try to think about why you’ve chosen a certain option. Is it the path of least resistance or is it actually the best decision for your business?
+
+----
+
+### Anchoring bias
+
+The first piece of information a person hears often sparks the imagination more than subsequent pieces of information. This comes into play, for example, when someone receives a brief for an ad campaign creative: the first brief sets of a realm of possibilities within the recipient’s mind that sets the scene for the project.
+
+----
+
+### Selective perception
+
+Selective perception is the process by which individuals perceive what they want to in media messages while ignoring opposing viewpoints. We all have our opinions and unfortunately a lack of impartiality is probably the biggest influencing factor affecting the way we make decisions.
+
+----
+
+### Information bias
+
+Not all information is relevant and often decision-makers absorb irrelevant information which has no bearing on the decision itself. Don’t be distracted by reams of facts that won’t actually bear relevance to the decision.
+
 ---
 
 ### Second example
@@ -392,6 +418,49 @@ The IKEA effect is a cognitive bias in which consumers place a disproportionatel
 ### Not invented here
 
 Not invented here (NIH) is a stance adopted by social, corporate, or institutional cultures that avoid using or buying already existing products, research, standards, or knowledge because of their external origins and costs, such as royalties.
+
+----
+
+### Choice-supportive bias
+
+Once we’ve made a decision, we tend to feel quite pleased with ourselves. It’s another thing off the ‘to do’ list and we can start thinking about an action plan for the future. This allure of the post-decision feeling is also an influencing factor.
+
+----
+
+### Conservatism
+
+Any aversion to change, for example if you prefer doing things ‘the way we’ve been doing it for years’, is conservatism bias. It can mean that people with this bias are more inclined to discount new or emerging data which undermines the old way of doing things. Businesses that prefer to operate using tried and tested methods may express scepticism about new technology because it challenges their way of operating and raises the need for changes they may be uncomfortable with making.
+
+----
+
+### Status quo bias
+
+The tendency to prefer things to stay the same. This is similar to loss-aversion bias, where people prefer to avoid losses instead of acquiring gains.
+
+----
+
+### Stereotyping
+
+We’re all guilty of stereotyping, often without even realizing it. Using stereotypes to make a decision is particularly difficult where staff working in international offices must reach an agreement because the stereotypes often differ between countries.
+
+----
+
+### Survival bias
+
+We never really know if we have all of the facts, but it’s certainly easy to assume we do. If we base our decisions on the information we can access, there is a strong chance that missing or lost data would have led us to a different thought process and potentially different decisions being made.
+
+----
+
+### Zero-risk bias
+
+Zero-risk bias is a tendency to prefer options that result in the complete elimination of risk. The avoidance of risk always makes a risk-free option the most appealing, even when it is likely to be unsuccessful.
+
+----
+
+### Escalation of commitment - Sunk Cost Fallacy
+
+Escalation of commitment refers to a human behavior pattern in which an individual or group—when faced with increasingly negative outcomes from some decision, action, or investment—continues the same behavior rather than alter course. They maintain actions that are irrational, but align with previous decisions and actions.
+
 
 ---
 
@@ -443,7 +512,7 @@ Not invented here (NIH) is a stance adopted by social, corporate, or institution
 
 ---
 
-### Give others hints about their cognitiv biases.
+### Give others hints about their cognitive biases.
 
 ---
 
@@ -452,8 +521,10 @@ Not invented here (NIH) is a stance adopted by social, corporate, or institution
 ---
 
 ### Cognitive biases are dynamic as the situations, discussions, decisions etc. are
+
 -
-### people could change strategies and minds, so biases are not static, but centextual.
+
+### people could change strategies and minds, so biases are not static, but contextual.
 
 ---
 
@@ -494,7 +565,6 @@ The psychologist Paul Slovic coined this term to describe the way people let the
 ----
 
 ### Anchoring bias
-
 
 The first piece of information a person hears often sparks the imagination more than subsequent pieces of information. This comes into play, for example, when someone receives a brief for an ad campaign creative: the first brief sets of a realm of possibilities within the recipient’s mind that sets the scene for the project.
 
